@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+  * What new skills have you learned?
+  - making HTML pages from Mockups
+  * What has been easy?
+  - looking through the MDN network document to get help
+  * What has been difficult?
+  - understanding which elements to use the MDN network document, as there are many elements which are common like <s> and <strike>
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  -played with the different elements provided.
+  -Looked through stackoverflow for solutions
